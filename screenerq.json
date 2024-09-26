@@ -1,0 +1,94 @@
+{
+    "schemaVersion" : "1.0",
+    "screenerQuestions" : {
+        "questions" : [
+
+            {
+                "id": "applied-before",
+                "type": "select",
+                "question": "Have you applied to Lambrecht Auction before?",
+                "options": [
+                    {
+                        "value" : "1",
+                        "label" : "Yes"
+                    },
+                    {
+                        "value" : "0",
+                        "label" : "No"
+                    }
+                    ],
+                    "required": true
+            },
+
+            {
+                "id": "applied-explanation",
+                "type": "textarea",
+                "question": "Please provide a brief summary of your previous expierence with Lambrecht Auction.",
+                "condition": 
+                    {
+                        "id": "applied-before",
+                        "value": "1"
+                    },
+                "required": true
+                
+            },
+
+            {
+                "id" : "lift-weight",
+                "type": "select",
+                "question": "Can you lift and carry up to 50 pounds?",
+                "options": [
+                    {
+                        "value" : "1",
+                        "label" : "Yes"
+                    }, 
+                    {
+                        "value" : "0",
+                        "label" : "No"
+                    }
+                    ],
+                    "required": true
+            },
+
+            {
+                "id" : "availability",
+                "type": "select",
+                "question": "How many hours are you looking to work each week?",
+                "options": [
+                    {
+                        "value" : "1",
+                        "label" : "Full Time (35-40hrs)"
+                    },
+                    {
+                        "value" : "0",
+                        "label" : "Part Time (30hrs or less)"
+                    }],
+                    "required": true
+            },
+
+            {
+                "id": "workplace-values",
+                "type" : "textarea",
+                "question": "What do you value in a workplace setting and how are your personal values reflected in the work you do?"
+            },
+
+            {
+                "id": "growth", 
+                "type" : "textarea",
+                "question": "What growth opportunities (if any) are you looking for in your career?"
+            },
+
+            {
+                "id": "goals",
+                "type" : "textarea",
+                "question": "What are your goals 5 years from now?"
+            },
+
+            {
+                "id": "books-read",
+                "type": "textarea",
+                "question": "What book(s) have you read recently to help/build your career?"
+            }
+        ]
+    }
+}
