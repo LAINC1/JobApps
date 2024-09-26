@@ -34,6 +34,23 @@
             },
 
             {
+                "id": "relocation",
+                "type": "select",
+                "question": "Do you live within or are willing to relocate to be within commuting distance of Sidney, NY 13838",
+                "options": [
+                    {
+                        "value": 1,
+                        "label": "Yes"
+                    },
+                    {
+                        "value": 0,
+                        "label": "No"
+                    }
+                ],
+                "required": true
+            },
+
+            {
                 "id" : "lift-weight",
                 "type": "select",
                 "question": "Can you lift and carry up to 50 pounds?",
@@ -57,11 +74,11 @@
                 "options": [
                     {
                         "value" : "1",
-                        "label" : "Full Time (35-40hrs)"
+                        "label" : "Full-time (35-40hrs)"
                     },
                     {
                         "value" : "0",
-                        "label" : "Part Time (30hrs or less)"
+                        "label" : "Part-time (30hrs or less)"
                     }],
                     "required": true
             },
