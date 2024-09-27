@@ -36,7 +36,7 @@
             {
                 "id": "relocation",
                 "type": "select",
-                "question": "Do you live within or are willing to relocate to be within commuting distance of Sidney, NY 13838",
+                "question": "Do you live within or are willing to relocate to be within commuting distance of Sidney, NY 13838?",
                 "options": [
                     {
                         "value": 1,
