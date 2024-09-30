@@ -4,6 +4,38 @@
         "questions" : [
 
             {
+                "id": "age",
+                "type": "select",
+                "question": "Are you at least 18 years of age?",
+                "options": [
+                    {
+                        "value" : "1",
+                        "label" : "Yes"
+                    },
+                    {
+                        "value" : "0",
+                        "label" : "No"
+                    }
+                    ],
+                    "required": true
+            },
+            {
+                "id": "driver-license",
+                "type": "select",
+                "question": "Do you have a valid drivers licence?",
+                "options": [
+                    {
+                        "value" : "1",
+                        "label" : "Yes"
+                    },
+                    {
+                        "value" : "0",
+                        "label" : "No"
+                    }
+                    ],
+                    "required": true
+            },
+            {
                 "id": "applied-before",
                 "type": "select",
                 "question": "Have you applied to Lambrecht Auction before?",
@@ -39,11 +71,11 @@
                 "question": "Do you live within or are willing to relocate to be within commuting distance of Sidney, NY 13838?",
                 "options": [
                     {
-                        "value": 1,
+                        "value": "1",
                         "label": "Yes"
                     },
                     {
-                        "value": 0,
+                        "value": "0",
                         "label": "No"
                     }
                 ],
@@ -105,6 +137,61 @@
                 "id": "books-read",
                 "type": "textarea",
                 "question": "What book(s) have you read recently to help/build your career?"
+            },
+
+            {
+                "id": "candidate-origin",
+                "type": "select",
+                "question": "How did you hear about us?",
+                "options": [
+                    {
+                        "value" : "0",
+                        "label" : "Current Employee"
+                    },
+                    {
+                        "value" : "1",
+                        "label" : "Email"
+                    },
+                    {
+                        "value" : "2",
+                        "label" : "Facebook"
+                    },
+                    {
+                        "value" : "3",
+                        "label" : "Website"
+                    },
+                    {
+                        "value" : "4",
+                        "label" : "Word of Mouth"
+                    },
+                    {
+                        "value" : "5",
+                        "label" : "Other"
+                    }
+                    ],
+                    "required": true
+            },
+
+            {
+                "id": "candidate-origin-refer",
+                "type": "text",
+                "question": "Please provide the name of the employee that referred you.",
+                "condition": 
+                {
+                    "id": "candidate-origin",
+                    "value": "0"
+                }
+            },
+
+            {
+                "id": "candidate-origin-other",
+                "type": "text",
+                "question": "Specify where you heard about us.",
+                "condition": 
+                {
+                    "id": "candidate-origin",
+                    "value": "5"
+                }
             }
         ]
     }
