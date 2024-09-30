@@ -22,7 +22,7 @@
             {
                 "id": "driver-license",
                 "type": "select",
-                "question": "Do you have a valid driver's licence?",
+                "question": "Do you have a valid driver's license?",
                 "options": [
                     {
                         "value" : "1",
