@@ -22,7 +22,7 @@
             {
                 "id": "driver-license",
                 "type": "select",
-                "question": "Do you have a valid drivers licence?",
+                "question": "Do you have a valid driver's licence?",
                 "options": [
                     {
                         "value" : "1",
@@ -38,7 +38,7 @@
             {
                 "id": "applied-before",
                 "type": "select",
-                "question": "Have you applied to Lambrecht Auction before?",
+                "question": "Have you applied to or worked at Lambrecht Auction before?",
                 "options": [
                     {
                         "value" : "1",
