@@ -1,0 +1,92 @@
+<?xml version="1.1" encoding ="UTF-8"?>
+
+<source>
+
+    <!--Special Projects Job-->
+    <job>
+        <title>
+            <![CDATA[Special Projects Team]]>
+        </title>
+
+        <date>
+        <!--T(time)-(time zone offset)-->
+            <![CDATA[2024-09-26T09:00:00-05:00]]>
+        </date>
+        
+        <referencenumber>
+            <![CDATA[38509478]]>
+        </referencenumber>
+
+        <requisitionid>
+            <![CDATA[SP1]]>
+        </requisitionid>
+
+        <url>
+            <![CDATA[]]>
+        </url>
+
+        <company>
+            <![CDATA[Lambrecht Auction Inc.]]>
+        </company>
+
+        <sourcename>
+            <![CDATA[Hiring Lambrecht Auction]]>
+        </sourcename>
+
+        <city>
+            <![CDATA[Sidney]]>
+        </city>
+
+        <state>
+            <![CDATA[NY]]>
+        </state>
+
+        <country>
+            <![CDATA[US]]>
+        </country>
+
+        <postalcode>
+            <![CDATA[13838]]>
+        </postalcode>
+
+        <streetaddress>
+            <![CDATA[171 Delaware Ave.]]>
+        </streetaddress>
+
+        <email>
+            <![CDATA[hiring@lambrechtauction.com]]>
+        </email>
+
+        <description>
+            <![CDATA[<h1>Job Overview</h1><p>Are you excited by new challenges and eager to learn? We are looking for a Special Projects team member who loves implementing solutions to solve company problems. In this dynamic role, you will work on various initiatives that don't fit within the usual mold, bringing fresh ideas to make our company’s operations smoother and more efficient.</p><h2>This Job is Ideal for Individuals Who Enjoy:</h2><ul><li>Learning something new</li><li>Helping and serving others</li><li>Finding ways to improve processes</li><li>Viewing mistakes as opportunities for growth</li><li>Staying focused while managing multiple tasks</li></ul><h2>More Information</h2><p>Join our growing company, a family business with over 40 years of history, where every employee is more than just a number. You'll be part of a collaborative, non-corporate team that streamlines complex processes and turns challenges into opportunities for growth. By breaking down company visions into actionable, step-by-step goals, you’ll help drive the entire team toward success. Embrace this opportunity to make a real impact in a company that values innovation, teamwork, and individual contributions.</p><h2>Desired Attributes</h2><ul><li>Unwavering integrity in all aspects of your work</li><li>Ability to stay focused and deliver results</li><li>Self-starter who initiates tasks and learns from mistakes</li><li>Excellent attention to detail and organizational skills</li><li>Friendly demeanor and commitment to outstanding service</li><li>"Roll-up-your-sleeves" attitude to get things done efficiently</li><li>Strong desire for continuous learning and personal growth</li><li>Team player who collaborates effortlessly, leaving ego at the door</li><li>Experience or interest in software implementation and testing</li><li>Proficiency in Microsoft Office, with enthusiasm for mastering new tools</li><li>Resilience and problem-solving skills to bounce back from setbacks</li></ul><h2>Expectations and Responsibilities</h2><p>As part of the Special Projects Team, your priorities will include:</p><ol><li>Demonstrating a commitment to excellence in all you do</li><li>Thriving in a fast-paced environment where actions speak louder than words</li><li>Juggling multiple priorities and consistently delivering high-quality work</li><li>Anticipating company needs and planning accordingly to build a thriving environment</li><li>Exploring untapped resources for company improvement while being mindful of budget constraints</li><li>Problem-solving effectively</li><li>Finding technical and creative workflow improvements to reduce effort on daily tasks</li><li>Collaborating with various teams, ensuring they have the information and resources needed for success, and translating technical information into clear, actionable steps</li></ol><h2>A Typical Day</h2><p>Our typical workday runs from 8:00 AM to 4:30 PM, with a 30-minute lunch break. Occasionally, projects may require attention outside of these hours (evenings or weekends), though this is uncommon. We work in a fast-paced, deadline-driven environment that suits those who thrive in energetic work settings.</p><h2>Please Apply If:</h2><p>You are good at getting things done independently, love organizing, and want to make a real difference. This could be your dream job! Let’s turn challenges into victories together. Apply now to join our team where your drive and values can truly shine.</p><ul><li><strong>Job Type:</strong> Full-time</li><li><strong>Pay:</strong> $18.00 - $20.00 per hour</li><li><strong>Expected Hours:</strong> No less than 40 per week</li></ul><h2>Benefits</h2><ul><li>Dental insurance</li><li>Health insurance</li><li>Paid time off</li><li>Vision insurance</li></ul><h2>Application Questions</h2><ul><li>Have you applied to Lambrecht Auction before?</li><li>What do you value in a workplace setting, and how are your personal values reflected in the work you do?</li><li>What growth opportunities are you looking for in your career?</li><li>What are your goals 5 years from now?</li><li>What book(s) have you read recently to help build your career?</li></ul><h2>Relocation Requirement</h2><ul><li><strong>Location:</strong> Sidney, NY 13838</li><li><strong>Requirement:</strong> Relocate before starting work (Required)</li><li><strong>Work Location:</strong> In person</li></ul>
+]]>
+        </description>
+
+        <salary>
+            <![CDATA[$18.00 - $20.00 per hour]]>
+        </salary>
+
+        <education>
+            <![CDATA[]]>
+        </education>
+
+        <jobtype>
+            <![CDATA[fulltime]]>
+        </jobtype>
+        
+        <category>
+            <![CDATA[]]>
+        </category>
+
+        <experience>
+            <![CDATA[Entry Level]]>
+        </experience>
+
+        <expirationdate>
+            <![CDATA[2024-10-26]]>
+        </expirationdate>
+
+        <indeed-apply-data><![CDATA[indeed-apply-apiToken=a9f0f83027b577807517a3372ecd37067b7121b8a92ddb7c7433102eb20e69ee&indeed-apply-jobTitle=Special+Projects+Team&indeed-apply-jobId=MgnIPHqNd&indeed-apply-jobCompanyName=Lambrecht+Auction+Inc.&indeed-apply-jobLocation=171+Delaware+Avenue%2C+Sidney%2C+NY+13838&indeed-apply-jobUrl=https%3A%2F%2Flainc1.github.io%2FJobApps%2FSP001_description.html&indeed-apply-postUrl=https%3A%2F%2Fwebhook.site%2F4c64a9ba-d9aa-4dc9-8ea6-0d6cc7c4d4e1&indeed-apply-phone=required&indeed-apply-name=fullname&indeed-apply-questions=https%3A%2F%2Flainc1.github.io%2FJobApps%2Fscreenerq.json&indeed-apply-resume=required]]>
+        </indeed-apply-data>
+    </job>
+</source>
