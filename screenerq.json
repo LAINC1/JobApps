@@ -192,6 +192,12 @@
                     "id": "candidate-origin",
                     "value": "5"
                 }
+            },
+            
+            {
+                "id": "comments",
+                "type": "textarea",
+                "question": "Please include any comments that would help us know more about you."
             }
         ]
     }
