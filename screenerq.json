@@ -55,7 +55,7 @@
             {
                 "id": "applied-explanation",
                 "type": "textarea",
-                "question": "Please provide a brief summary of your previous expierence with Lambrecht Auction.",
+                "question": "Please provide a brief summary of your previous experience with Lambrecht Auction.",
                 "condition": 
                     {
                         "id": "applied-before",
